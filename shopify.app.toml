@@ -3,7 +3,7 @@
 client_id = "1103370387870fdb4289ba5132cac314"
 name = "extensive-benchmark-app"
 handle = "extensive-benchmark-app-8"
-application_url = "https://camp-knee-fares-guides.trycloudflare.com"
+application_url = "https://app-shopify123.onrender.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://camp-knee-fares-guides.trycloudflare.com/auth/callback",
-  "https://camp-knee-fares-guides.trycloudflare.com/auth/shopify/callback",
-  "https://camp-knee-fares-guides.trycloudflare.com/api/auth/callback"
+  "https://app-shopify123.onrender.com/auth/callback",
+  "https://app-shopify123.onrender.com/auth/shopify/callback",
+  "https://app-shopify123.onrender.com/api/auth/callback"
 ]
 
 [webhooks]
